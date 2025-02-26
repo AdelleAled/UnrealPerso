@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projets/UnrealPerso/UnrealPerso/Content/NewMap1.umap",
+				"D:/Projets/UnrealPerso/UnrealPerso/Content/VFX/M_Glow.uasset",
+				"D:/Projets/UnrealPerso/UnrealPerso/Content/VFX/M_Stars.uasset",
+				"D:/Projets/UnrealPerso/UnrealPerso/Content/VFX/M_StarBurst.uasset",
+				"D:/Projets/UnrealPerso/UnrealPerso/Content/VFX/NS_Sparks.uasset"
+			]
+		}
+	]
+}
